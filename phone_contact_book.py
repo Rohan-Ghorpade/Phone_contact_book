@@ -35,9 +35,9 @@ conn.execute('''
 
 # Insert 5 rows of data
 contacts_data = [
+     ("Rohan s ghorpade", "6360112301", "Rohanghorpade@gmail.com"),
     ("Sunil", "6362753027", "Sunil@gmail.com"),
     ("Rakesh", "8277490733", "Rakesh@gmail.com"),
-    ("Rohan", "6360112301", "Rohan@gmail.com"),
     ("Gokul", "8618220347", "Gokul@gmail.com"),
     ("Raghavendra", "9108070437", "Raghavendra@gmail.com")
 ]
